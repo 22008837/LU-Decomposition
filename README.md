@@ -52,10 +52,10 @@ print(X)
 
 ## Output:
 L and U matrix
-![](./L%20U.png)
+![output](./L%20U.png)
 
 LU decomposition
-![](./matrix.png)
+![output](./matrix.png)
 
 
 ## Result:
